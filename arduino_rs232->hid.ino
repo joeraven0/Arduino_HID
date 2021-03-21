@@ -1,8 +1,7 @@
 /*
   Serial to hid converter. Used when keywedge is needed for Linux systems.
   Joakim Ringstad
-  Datalogic Sweden
-  joakim.ringstad@datalogic.com
+
 
   Instructions
   Connect TX to CBX
